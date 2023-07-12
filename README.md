@@ -80,6 +80,16 @@ Ping + http
 
 <img width="1138" alt="Screenshot 2023-07-12 at 7 20 54 PM" src="https://github.com/bastien707/aws-project/assets/73294817/4315e1af-f673-4121-a131-5d8e7fa9f9dc">
 
+## IAM Role
+### Create role with read only access ssm (least privilege)
+<img width="1036" alt="Screenshot 2023-07-12 at 7 53 19 PM" src="https://github.com/bastien707/aws-project/assets/73294817/5f53e919-f144-494a-9ad7-d96123b58f63">
+
+### Attach IAM role
+<img width="845" alt="Screenshot 2023-07-12 at 7 55 41 PM" src="https://github.com/bastien707/aws-project/assets/73294817/2c87fe5b-ff4b-4306-aa0d-0381e0ba8320">
+
+## Query is working, we are legend !
+<img width="1414" alt="Screenshot 2023-07-12 at 7 47 23 PM" src="https://github.com/bastien707/aws-project/assets/73294817/d30fd4d1-a951-47b0-914b-ac2d53e9796d">
+
 
 
 
