@@ -61,7 +61,7 @@ Ping + http
 
 <img width="826" alt="Screenshot 2023-07-12 at 6 56 33 PM" src="https://github.com/bastien707/aws-project/assets/73294817/cab871f1-b9ed-4b7d-a4c4-7a304e669c11">
 
-## configure parameter store
+## Configure parameter store
 <img width="1291" alt="Screenshot 2023-07-12 at 7 40 51 PM" src="https://github.com/bastien707/aws-project/assets/73294817/3ce2c00e-aa28-49bd-ba61-95eb65ac909e">
 
 ## Website initialization
