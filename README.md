@@ -2,8 +2,8 @@
 
 ## Authors
 
-[Joël GABBAI](https://github.com/Joel-alt)
-[Bastien FACQUEUR](https://github.com/bastien707)
+- [Joël GABBAI](https://github.com/Joel-alt)
+- [Bastien FACQUEUR](https://github.com/bastien707)
 
 ## Create VPC
 
