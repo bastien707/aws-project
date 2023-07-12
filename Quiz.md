@@ -54,4 +54,42 @@ Option 6: Configuring security groups and network access control lists (network 
 
 Option 4: Without public IP addresses, in a subnet with a default route to a network address translation (NAT) gateway.
 
+## Policies evaluation
+
+**Question: What actions are allowed for EC2 instances and S3 objects based on this policy? What specific resources are included?**
+
+```json
+{
+  "Version": "2012-10-17",
+  "Statement": [
+    {
+      "Sid": "AllowEC2AndS3",
+      "Effect": "Allow",
+      "Action": [
+        "ec2:RunInstances",
+        "ec2:TerminateInstances",
+        "s3:GetObject",
+        "s3:PutObject"
+      ],
+      "Resource": [
+        "arn:aws:ec2:us-east-1:123456789012:instance/*",
+        "arn:aws:s3:::example-bucket/*"
+      ]
+    }
+  ]
+}
+```
+
+This policy allows specific actions for both EC2 instances and S3 objects. The actions that are allowed include "ec2:RunInstances" and "ec2:TerminateInstances" for EC2 instances, and "s3:GetObject" and "s3:PutObject" for S3 objects. The policy grants permission to run and terminate instances within the `us-east-1` region under the AWS account `123456789012`, as specified by the resource ARN "arn:aws:ec2:us-east-1:123456789012:instance/*". Additionally, it allows getting and putting objects within the "example-bucket" in S3, as indicated by the resource ARN "arn:aws:s3:::example-bucket/*".
+
+
+
+
+
+
+
+
+
+
+
 
