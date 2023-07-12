@@ -31,6 +31,10 @@
 ### EC2
 <img width="1166" alt="Screenshot 2023-07-12 at 4 07 40 PM" src="https://github.com/bastien707/aws-project/assets/73294817/fa4f2092-1413-4548-8e72-45e493d5eb76">
 
+### Inbound rules for EC2
+Ping + http
+<img width="1161" alt="Screenshot 2023-07-12 at 6 54 01 PM" src="https://github.com/bastien707/aws-project/assets/73294817/ecdfc66a-4c9d-4c1f-826c-0803cc596fc1">
+
 ## Create private subnet
 
 <img width="1135" alt="Screenshot 2023-07-12 at 3 22 43 PM" src="https://github.com/bastien707/aws-project/assets/73294817/cd7aa5d0-522b-402c-806d-6e6213a28d1c">
@@ -48,5 +52,35 @@
 
 ## Create security group for private DB instance
 <img width="1324" alt="Screenshot 2023-07-12 at 4 46 31 PM" src="https://github.com/bastien707/aws-project/assets/73294817/dd6ee555-34a3-412a-8cc4-9dd585fbac1b">
+
+## Create RDS database
+
+<img width="1103" alt="Screenshot 2023-07-12 at 5 34 50 PM" src="https://github.com/bastien707/aws-project/assets/73294817/238d063e-e279-4e0f-be1e-356eeb1c5a15">
+
+## Install project into EC2 instance
+
+<img width="826" alt="Screenshot 2023-07-12 at 6 56 33 PM" src="https://github.com/bastien707/aws-project/assets/73294817/cab871f1-b9ed-4b7d-a4c4-7a304e669c11">
+
+## configure parameter store
+<img width="1291" alt="Screenshot 2023-07-12 at 7 40 51 PM" src="https://github.com/bastien707/aws-project/assets/73294817/3ce2c00e-aa28-49bd-ba61-95eb65ac909e">
+
+## Website initialization
+
+<img width="1413" alt="Screenshot 2023-07-12 at 5 56 02 PM" src="https://github.com/bastien707/aws-project/assets/73294817/93ed8bd0-ad88-4a6f-b1b3-12660bf17774">
+
+## Connection to the database from Cloud9
+
+<img width="1132" alt="Screenshot 2023-07-12 at 6 21 45 PM" src="https://github.com/bastien707/aws-project/assets/73294817/d6574bbc-86d7-4c19-b9e8-bde494040bd1">
+
+## Cannot connect to database from another host which is normal for security reasons
+
+<img width="990" alt="Screenshot 2023-07-12 at 6 32 56 PM" src="https://github.com/bastien707/aws-project/assets/73294817/c251a4b1-a64a-414c-9996-13bcccc68d27">
+
+## Select sample datas in Cloud9
+
+<img width="1138" alt="Screenshot 2023-07-12 at 7 20 54 PM" src="https://github.com/bastien707/aws-project/assets/73294817/4315e1af-f673-4121-a131-5d8e7fa9f9dc">
+
+
+
 
 
