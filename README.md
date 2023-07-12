@@ -1,5 +1,10 @@
 # aws-project
 
+## Authors
+
+[Joël GABBAI](https://github.com/Joel-alt)
+[Bastien FACQUEUR](https://github.com/bastien707)
+
 ## Create VPC
 
 <img width="834" alt="Screenshot 2023-07-12 at 2 55 34 PM" src="https://github.com/bastien707/aws-project/assets/73294817/831c99b3-f97e-48b4-bf92-d6578a43caf9">
@@ -87,7 +92,7 @@ Ping + http
 ### Attach IAM role
 <img width="845" alt="Screenshot 2023-07-12 at 7 55 41 PM" src="https://github.com/bastien707/aws-project/assets/73294817/2c87fe5b-ff4b-4306-aa0d-0381e0ba8320">
 
-## Query is working, we are legend ! 👑
+## Queries are working, we are legend ! 👑
 <img width="1414" alt="Screenshot 2023-07-12 at 7 47 23 PM" src="https://github.com/bastien707/aws-project/assets/73294817/d30fd4d1-a951-47b0-914b-ac2d53e9796d">
 
 <img width="1414" alt="Screenshot 2023-07-12 at 8 08 35 PM" src="https://github.com/bastien707/aws-project/assets/73294817/a1c70569-d9f1-42c5-98a6-0a08caaf07a7">
